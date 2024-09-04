@@ -1,1 +1,3 @@
 sctg/sctgdesk-server:1.1.99-41b
+rustdesk/rustdesk-server
+kingmo888/rustdesk-api-server
