@@ -1,1 +1,5 @@
 adguard/adguardhome
+xianwei2022/stars.client
+bigbugcc/3x-ui
+xianwei2022/stars.client
+sctg/sctgdesk-server
