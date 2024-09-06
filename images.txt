@@ -2,3 +2,4 @@ sctg/sctgdesk-server
 rustdesk/rustdesk-server
 kingmo888/rustdesk-api-server
 ghcr.io/mhsanaei/3x-ui:latest
+zerotier/zerotier
