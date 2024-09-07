@@ -5,3 +5,4 @@ kingmo888/rustdesk-api-server
 ghcr.io/mhsanaei/3x-ui:latest
 zerotier/zerotier
 enwaiax/x-ui
+rustdesk/rustdesk-server-pro
