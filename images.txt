@@ -1,3 +1,4 @@
+sctg/sctgdesk-server-integration
 sctg/sctgdesk-server
 rustdesk/rustdesk-server
 kingmo888/rustdesk-api-server
