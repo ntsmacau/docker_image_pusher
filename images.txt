@@ -6,3 +6,4 @@ ghcr.io/mhsanaei/3x-ui:latest
 zerotier/zerotier
 enwaiax/x-ui
 rustdesk/rustdesk-server-pro
+jlesage/nginx-proxy-manager
