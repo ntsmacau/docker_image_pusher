@@ -7,3 +7,5 @@ zerotier/zerotier
 enwaiax/x-ui
 rustdesk/rustdesk-server-pro
 jlesage/nginx-proxy-manager
+registry.cn-beijing.aliyuncs.com/ld_beijing/stars.client:5.0.4
+registry.cn-beijing.aliyuncs.com/ld_beijing/stars.node:1.1.6
