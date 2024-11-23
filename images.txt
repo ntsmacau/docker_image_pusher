@@ -11,3 +11,4 @@ registry.cn-beijing.aliyuncs.com/ld_beijing/stars.client:5.0.4
 registry.cn-beijing.aliyuncs.com/ld_beijing/stars.node:1.1.6
 yisier1/npc
 yisier1/nps
+thijsvanloef/palworld-server-docker
