@@ -10,3 +10,4 @@ tinyserve/udpxy
 metacubex/mihomo
 adguard/adguardhome
 irinesistiana/mosdns
+openspeedtest/latest
