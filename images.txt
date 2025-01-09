@@ -12,3 +12,4 @@ adguard/adguardhome
 irinesistiana/mosdns
 openspeedtest/latest
 adolfintel/speedtest
+louislam/uptime-kuma
