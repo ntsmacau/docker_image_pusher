@@ -12,3 +12,4 @@ openspeedtest/latest
 adolfintel/speedtest
 louislam/uptime-kuma
 loganjindev/zerotier-ztncui
+jammsen/palworld-dedicated-server:latest
