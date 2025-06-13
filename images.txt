@@ -4,7 +4,6 @@ enwaiax/x-ui
 rustdesk/rustdesk-server-pro
 yisier1/npc
 yisier1/nps
-tinyserve/udpxy
 metacubex/mihomo
 adguard/adguardhome
 irinesistiana/mosdns
