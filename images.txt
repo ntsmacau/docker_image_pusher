@@ -13,4 +13,4 @@ louislam/uptime-kuma
 loganjindev/zerotier-ztncui
 jammsen/palworld-dedicated-server:latest
 thijsvanloef/palworld-server-docker
-mcr.microsoft.com/windows/servercore:ltsc2022
+microsoft/windows:ltsc2022
