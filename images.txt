@@ -1,3 +1,4 @@
+python:3.12-alpine
 ghcr.io/mhsanaei/3x-ui:latest
 zerotier/zerotier
 enwaiax/x-ui
