@@ -14,3 +14,4 @@ loganjindev/zerotier-ztncui
 jammsen/palworld-dedicated-server:latest
 thijsvanloef/palworld-server-docker
 threatbook/hfish-server
+python:3
