@@ -1,3 +1,4 @@
+mysql:5.7
 python:3.12-alpine
 ghcr.io/mhsanaei/3x-ui:latest
 zerotier/zerotier
@@ -13,6 +14,4 @@ adolfintel/speedtest
 louislam/uptime-kuma
 loganjindev/zerotier-ztncui
 jammsen/palworld-dedicated-server:latest
-thijsvanloef/palworld-server-docker
 threatbook/hfish-server
-python:3
