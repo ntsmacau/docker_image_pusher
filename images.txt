@@ -16,4 +16,4 @@ louislam/uptime-kuma
 loganjindev/zerotier-ztncui
 jammsen/palworld-dedicated-server:latest
 threatbook/hfish-server
-registry.cn-beijing.aliyuncs.com/ld_beijing/stars.node:1.1.8
+registry.cn-beijing.aliyuncs.com/ld_beijing/stars.node
