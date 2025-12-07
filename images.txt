@@ -1,6 +1,6 @@
 python:3.12-alpine
 ghcr.io/mhsanaei/3x-ui:latest
-zerotier/zerotier
+zyclonite/zerotier
 enwaiax/x-ui
 rustdesk/rustdesk-server-pro
 yisier1/npc
