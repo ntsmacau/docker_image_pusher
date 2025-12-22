@@ -1,3 +1,4 @@
+ghcr.io/sagernet/sing-box
 python:3.12-alpine
 ghcr.io/mhsanaei/3x-ui:latest
 zyclonite/zerotier
