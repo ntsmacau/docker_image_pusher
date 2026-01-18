@@ -14,7 +14,7 @@ adolfintel/speedtest
 louislam/uptime-kuma
 loganjindev/zerotier-ztncui
 jammsen/palworld-dedicated-server:latest
-threatbook/hfish-server
+threatbook/hfish-server:latest
 registry.cn-beijing.aliyuncs.com/ld_beijing/stars.node
 registry.cn-beijing.aliyuncs.com/ld_beijing/stars.client
 ghcr.io/xeefei/x-panel:latest
