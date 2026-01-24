@@ -19,3 +19,4 @@ registry.cn-beijing.aliyuncs.com/ld_beijing/stars.node
 registry.cn-beijing.aliyuncs.com/ld_beijing/stars.client
 ghcr.io/xeefei/x-panel:latest
 mysql:5.7
+python:3.12-alpine
