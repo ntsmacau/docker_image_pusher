@@ -6,6 +6,7 @@ zyclonite/zerotier
 enwaiax/x-ui
 rustdesk/rustdesk-server-pro
 yisier1/npc
+yisier1/npc:v0.26.29
 yisier1/nps
 metacubex/mihomo
 adguard/adguardhome
