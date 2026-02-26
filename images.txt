@@ -5,9 +5,8 @@ ghcr.io/mhsanaei/3x-ui:latest
 zyclonite/zerotier
 enwaiax/x-ui
 rustdesk/rustdesk-server-pro
-yisier1/npc
 yisier1/npc:v0.26.29
-yisier1/nps
+yisier1/nps:v0.26.29
 metacubex/mihomo
 adguard/adguardhome
 irinesistiana/mosdns
@@ -22,4 +21,3 @@ registry.cn-beijing.aliyuncs.com/ld_beijing/stars.client
 ghcr.io/xeefei/x-panel:latest
 mysql:5.7
 cloudflare/cloudflared:latest
-mariadb:10.11
