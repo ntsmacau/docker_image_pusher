@@ -21,3 +21,4 @@ registry.cn-beijing.aliyuncs.com/ld_beijing/stars.client
 ghcr.io/xeefei/x-panel:latest
 mysql:5.7
 cloudflare/cloudflared:latest
+mariadb:10.11
