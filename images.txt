@@ -22,7 +22,5 @@ ghcr.io/xeefei/x-panel:latest
 mysql:5.7
 cloudflare/cloudflared:latest
 postgres:15.2
-swr.cn-east-3.myhuaweicloud.com/chaitin-safeline/mgt:latest
-swr.cn-east-3.myhuaweicloud.com/chaitin-safeline/tengine:latest
 gdy666/lucky:v3
 
