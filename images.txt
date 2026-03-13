@@ -14,13 +14,9 @@ openspeedtest/latest
 adolfintel/speedtest
 louislam/uptime-kuma
 loganjindev/zerotier-ztncui
-jammsen/palworld-dedicated-server:latest
 threatbook/hfish-server:latest
-registry.cn-beijing.aliyuncs.com/ld_beijing/stars.node
-registry.cn-beijing.aliyuncs.com/ld_beijing/stars.client
 ghcr.io/xeefei/x-panel:latest
 mysql:5.7
 cloudflare/cloudflared:latest
-postgres:15.2
-gdy666/lucky:v3
+gdy666/lucky:2.27.2
 
