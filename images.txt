@@ -5,8 +5,8 @@ ghcr.io/mhsanaei/3x-ui:latest
 zyclonite/zerotier
 enwaiax/x-ui
 rustdesk/rustdesk-server-pro
-yisier1/npc:v0.26.29
-yisier1/nps:v0.26.29
+yisier1/npc:latest
+yisier1/nps:latest
 metacubex/mihomo
 adguard/adguardhome
 irinesistiana/mosdns
