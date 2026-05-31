@@ -1,3 +1,4 @@
+mariadb:latest
 alpine:latest
 ghcr.io/sagernet/sing-box
 python:3.12-alpine
