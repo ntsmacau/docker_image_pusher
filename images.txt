@@ -16,6 +16,7 @@ adolfintel/speedtest
 louislam/uptime-kuma
 loganjindev/zerotier-ztncui
 threatbook/hfish-server:latest
+threatbook/hfish-server:3.3.6
 ghcr.io/xeefei/x-panel:latest
 mysql:5.7
 cloudflare/cloudflared:latest
