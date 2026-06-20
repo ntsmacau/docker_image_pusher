@@ -19,6 +19,7 @@ threatbook/hfish-server:latest
 threatbook/hfish-server:3.3.6
 ghcr.io/xeefei/x-panel:latest
 mysql:5.7
+mysql:8.0
 cloudflare/cloudflared:latest
 gdy666/lucky:2.27.2
 gdy666/lucky
